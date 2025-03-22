@@ -65,3 +65,9 @@ D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.Assemb
 D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
 D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
 D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\Repos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.dll
+D:\Repos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\Repos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+D:\Repos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+D:\Repos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
+D:\Repos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb

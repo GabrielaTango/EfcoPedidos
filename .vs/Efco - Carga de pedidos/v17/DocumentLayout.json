@@ -1,32 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyectos\\Efco - Carga de pedidos\\",
+  "WorkspaceRootPath": "D:\\Repos\\Efco - Carga de pedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9BFC169-225D-4140-A6AE-06D8FA7BC9EC}|..\\Delta3\\Delta3.csproj|d:\\proyectos\\delta3\\gva03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|d:\\repos\\efco - carga de pedidos\\efco - carga de pedidos\\negocio\\gva03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|solutionrelative:efco - carga de pedidos\\negocio\\gva03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Proyectos\\Efco - Carga de pedidos\\efco - carga de pedidos\\negocio\\procesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proyectos\\Delta3\\GVA03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Repos\\Efco - Carga de pedidos\\efco - carga de pedidos\\negocio\\procesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|solutionrelative:efco - carga de pedidos\\negocio\\procesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9BFC169-225D-4140-A6AE-06D8FA7BC9EC}|..\\Delta3\\Delta3.csproj|d:\\proyectos\\delta3\\gva21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Proyectos\\Efco - Carga de pedidos\\efco - carga de pedidos\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Repos\\Efco - Carga de pedidos\\efco - carga de pedidos\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|solutionrelative:efco - carga de pedidos\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Proyectos\\Efco - Carga de pedidos\\efco - carga de pedidos\\negocio\\gva21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Repos\\Efco - Carga de pedidos\\efco - carga de pedidos\\negocio\\gva21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|solutionrelative:efco - carga de pedidos\\negocio\\gva21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Proyectos\\Efco - Carga de pedidos\\efco - carga de pedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Repos\\Efco - Carga de pedidos\\efco - carga de pedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|solutionrelative:efco - carga de pedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Proyectos\\Efco - Carga de pedidos\\efco - carga de pedidos\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|D:\\Repos\\Efco - Carga de pedidos\\efco - carga de pedidos\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2B72EC2E-5CC0-484D-869B-C584AFD55B7B}|Efco - Carga de pedidos\\Efco - Carga de pedidos.csproj|solutionrelative:efco - carga de pedidos\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proyectos\\Delta3\\GVA21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,24 +48,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GVA03.cs",
+              "DocumentMoniker": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\GVA03.cs",
+              "RelativeDocumentMoniker": "Efco - Carga de pedidos\\Negocio\\GVA03.cs",
+              "ToolTip": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\GVA03.cs",
+              "RelativeToolTip": "Efco - Carga de pedidos\\Negocio\\GVA03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:05:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Procesos.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\Procesos.cs",
+              "DocumentMoniker": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\Procesos.cs",
               "RelativeDocumentMoniker": "Efco - Carga de pedidos\\Negocio\\Procesos.cs",
-              "ToolTip": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\Procesos.cs",
+              "ToolTip": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\Procesos.cs",
               "RelativeToolTip": "Efco - Carga de pedidos\\Negocio\\Procesos.cs",
               "ViewState": "AgIAAGkBAAAAAAAAAAA5wHQBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T22:20:56.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T22:20:56.177Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Program.cs",
               "RelativeDocumentMoniker": "Efco - Carga de pedidos\\Program.cs",
-              "ToolTip": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Program.cs",
+              "ToolTip": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Program.cs",
               "RelativeToolTip": "Efco - Carga de pedidos\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAlwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GVA03.cs",
               "DocumentMoniker": "D:\\Proyectos\\Delta3\\GVA03.cs",
-              "RelativeDocumentMoniker": "..\\Delta3\\GVA03.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyectos\\Delta3\\GVA03.cs",
               "ToolTip": "D:\\Proyectos\\Delta3\\GVA03.cs",
-              "RelativeToolTip": "..\\Delta3\\GVA03.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAowIwAAAAcAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\Proyectos\\Delta3\\GVA03.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwIwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T14:51:37.277Z",
               "EditorCaption": ""
@@ -84,22 +100,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FrmMain.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs",
+              "DocumentMoniker": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs",
               "RelativeDocumentMoniker": "Efco - Carga de pedidos\\FrmMain.cs",
-              "ToolTip": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs",
+              "ToolTip": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs",
               "RelativeToolTip": "Efco - Carga de pedidos\\FrmMain.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAkwHIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:46:36.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T14:46:36.511Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GVA21.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\GVA21.cs",
+              "DocumentMoniker": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\GVA21.cs",
               "RelativeDocumentMoniker": "Efco - Carga de pedidos\\Negocio\\GVA21.cs",
-              "ToolTip": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\GVA21.cs",
+              "ToolTip": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\Negocio\\GVA21.cs",
               "RelativeToolTip": "Efco - Carga de pedidos\\Negocio\\GVA21.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,28 +122,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "GVA21.cs",
               "DocumentMoniker": "D:\\Proyectos\\Delta3\\GVA21.cs",
-              "RelativeDocumentMoniker": "..\\Delta3\\GVA21.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyectos\\Delta3\\GVA21.cs",
               "ToolTip": "D:\\Proyectos\\Delta3\\GVA21.cs",
-              "RelativeToolTip": "..\\Delta3\\GVA21.cs",
+              "RelativeToolTip": "..\\..\\Proyectos\\Delta3\\GVA21.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAuwDkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:44:11.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T14:44:11.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FrmMain.cs [Design]",
-              "DocumentMoniker": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs",
+              "DocumentMoniker": "D:\\Repos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs",
               "RelativeDocumentMoniker": "Efco - Carga de pedidos\\FrmMain.cs",
               "ToolTip": "D:\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs [Design]",
-              "RelativeToolTip": "Efco - Carga de pedidos\\FrmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\Proyectos\\Efco - Carga de pedidos\\Efco - Carga de pedidos\\FrmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:44:10.188Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-15T14:44:10.188Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+D:\Proyectos\Delta3\bin\Debug\Delta3.dll
+D:\Proyectos\Delta3\bin\Debug\Delta3.pdb
+D:\Proyectos\Delta3\obj\Debug\Delta3.csproj.CoreCompileInputs.cache
+D:\Proyectos\Delta3\obj\Debug\Delta3.dll
+D:\Proyectos\Delta3\obj\Debug\Delta3.pdb
+D:\Proyectos\Delta3\obj\Debug\Delta3.csproj.AssemblyReference.cache
+D:\Repos\Efco - Carga de pedidos\Delta3\bin\Debug\Delta3.dll
+D:\Repos\Efco - Carga de pedidos\Delta3\bin\Debug\Delta3.pdb
+D:\Repos\Efco - Carga de pedidos\Delta3\obj\Debug\Delta3.csproj.AssemblyReference.cache
+D:\Repos\Efco - Carga de pedidos\Delta3\obj\Debug\Delta3.csproj.CoreCompileInputs.cache
+D:\Repos\Efco - Carga de pedidos\Delta3\obj\Debug\Delta3.dll
+D:\Repos\Efco - Carga de pedidos\Delta3\obj\Debug\Delta3.pdb

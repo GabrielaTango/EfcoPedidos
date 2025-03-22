@@ -91,13 +91,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Delta3\Delta3.csproj">
-      <Project>{b9bfc169-225d-4140-a6ae-06d8fa7bc9ec}</Project>
-      <Name>Delta3</Name>
-    </ProjectReference>
     <ProjectReference Include="..\BaseDatos\BaseDatos.csproj">
       <Project>{14e6dcf8-d161-4c36-bc71-9265a174493c}</Project>
       <Name>BaseDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Delta3\Delta3.csproj">
+      <Project>{b9bfc169-225d-4140-a6ae-06d8fa7bc9ec}</Project>
+      <Name>Delta3</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
