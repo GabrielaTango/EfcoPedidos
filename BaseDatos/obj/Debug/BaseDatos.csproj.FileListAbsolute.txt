@@ -1,0 +1,67 @@
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Mis documentos\Visual Studio 2008\Projects\Braganza\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\GE-SincroPedidos\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\GE-SincroPedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\GE-SincroPedidos\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\GE-SincroPedidos\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\GE-SincroPedidos\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\Yamil\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\Yamil\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\Yamil\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yamil\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\Yamil\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\bin\Debug\BaseDatos.dll
+D:\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\obj\Debug\BaseDatos.dll
+D:\Dropbox\Fuentes Ultimos\MapeAr\BaseDatos\obj\Debug\BaseDatos.pdb
+E:\Software\MapeAr\BaseDatos\bin\Debug\BaseDatos.dll
+E:\Software\MapeAr\BaseDatos\bin\Debug\BaseDatos.pdb
+E:\Software\MapeAr\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+E:\Software\MapeAr\BaseDatos\obj\Debug\BaseDatos.dll
+E:\Software\MapeAr\BaseDatos\obj\Debug\BaseDatos.pdb
+E:\Documents\Visual Studio 2017\Projects\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.dll
+E:\Documents\Visual Studio 2017\Projects\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+E:\Documents\Visual Studio 2017\Projects\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
+E:\Documents\Visual Studio 2017\Projects\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\Dropbox\Fuentes Ultimos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.dll
+D:\Dropbox\Fuentes Ultimos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\Dropbox\Fuentes Ultimos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
+D:\Dropbox\Fuentes Ultimos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\Dropbox\Fuentes Ultimos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+D:\Drive\Fuentes\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.dll
+D:\Drive\Fuentes\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\Drive\Fuentes\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
+D:\Drive\Fuentes\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\Drive\Fuentes\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+E:\Proyectos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.dll
+E:\Proyectos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+E:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csprojAssemblyReference.cache
+E:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+E:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
+E:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\Proyectos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.dll
+D:\Proyectos\Efco - Carga de pedidos\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.dll
+D:\Proyectos\Efco - Carga de pedidos\BaseDatos\obj\Debug\BaseDatos.pdb

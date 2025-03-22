@@ -1,0 +1,20 @@
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\bin\Release\BaseDatos.dll
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\bin\Release\BaseDatos.pdb
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Release\BaseDatos.dll
+C:\Documents and Settings\User\Mis documentos\Visual Studio 2008\Projects\Analisis de Cobranzas\BaseDatos\obj\Release\BaseDatos.pdb
+C:\Mis documentos\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\bin\Release\BaseDatos.dll
+C:\Mis documentos\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\bin\Release\BaseDatos.pdb
+C:\Mis documentos\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Mis documentos\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\obj\Release\BaseDatos.dll
+C:\Mis documentos\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\obj\Release\BaseDatos.pdb
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\bin\Release\BaseDatos.dll
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\bin\Release\BaseDatos.pdb
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\obj\Release\BaseDatos.dll
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas\BaseDatos\obj\Release\BaseDatos.pdb
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas - Resumen informe\BaseDatos\bin\Release\BaseDatos.dll
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas - Resumen informe\BaseDatos\bin\Release\BaseDatos.pdb
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas - Resumen informe\BaseDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas - Resumen informe\BaseDatos\obj\Release\BaseDatos.dll
+C:\Users\YaMiL\Dropbox\Fuentes Ultimos\Analisis de Cobranzas - Resumen informe\BaseDatos\obj\Release\BaseDatos.pdb
